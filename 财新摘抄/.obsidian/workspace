@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "550280363d475123",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0ef6e6645af7cc",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3fbfb7a49838e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e1cf71ab6bdd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e47aab8d3a36ac3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ec8d64b186bdc6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25eb159cbb89b597",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac534aa35f5e9a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a9e7b033844c6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c0ef6e6645af7cc",
+  "lastOpenFiles": [
+    "2021.md",
+    "人文学科没有用吗.pdf",
+    "为何“鸡娃”多半会失败.pdf",
+    "未命名.md",
+    "2021/为何“鸡娃”多半会失败.md",
+    "为何“鸡娃”多半会失败_1628845375482_0.pdf",
+    "2021/未命名.md"
+  ]
+}
