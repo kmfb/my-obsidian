@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0ef6e6645af7cc",
+        "id": "2dcde311ba615d19",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "经济学人/2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "经济学人/2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,17 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "1c0ef6e6645af7cc",
+  "active": "2dcde311ba615d19",
   "lastOpenFiles": [
-    "2021.md",
+    "经济学人/2021.md",
+    "The City of London.pdf",
+    "财新周刊/2021.md",
+    "经济学人/未命名.md",
     "人文学科没有用吗.pdf",
     "为何“鸡娃”多半会失败.pdf",
+    "2021.md",
     "未命名.md",
     "2021/为何“鸡娃”多半会失败.md",
-    "为何“鸡娃”多半会失败_1628845375482_0.pdf",
-    "2021/未命名.md"
+    "为何“鸡娃”多半会失败_1628845375482_0.pdf"
   ]
 }
